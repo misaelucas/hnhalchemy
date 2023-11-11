@@ -1,0 +1,493 @@
+[
+    {
+    "Name": "Lingonberries",
+    "Effect1": "Charisma",
+    "Effect2": "Carpentry",
+    "Effect3": "Agility",
+    "Effect4": "Smithing"
+    },
+    {
+    "Name": "Clover",
+    "Effect1": "Scrapes & Cuts",
+    "Effect2": "Antcid Burns",
+    "Effect3": "Nidburns",
+    "Effect4": "Shorter Duration"
+    },
+    {
+    "Name": "Chantrelles",
+    "Effect1": "Psyche",
+    "Effect2": "Bruises",
+    "Effect3": "Pipe Wheeze",
+    "Effect4": "Starvation"
+    },
+    {
+    "Name": "Rustroot",
+    "Effect1": "Psyche",
+    "Effect2": "Unarmed Combat",
+    "Effect3": "Constitution",
+    "Effect4": "Adder Bite"
+    },
+    {
+    "Name": "Cattail Root",
+    "Effect1": "Charisma",
+    "Effect2": "Nicks & Knacks",
+    "Effect3": "Perception",
+    "Effect4": "Nerve Damage"
+    },
+    {
+    "Name": "Oyster Mushroom",
+    "Effect1": "Psyche",
+    "Effect2": "Nasty Wart",
+    "Effect3": "Masonry",
+    "Effect4": "Stealth"
+    },
+    {
+    "Name": "Yellowfeet",
+    "Effect1": "Unarmed Combat",
+    "Effect2": "Nasty Wart",
+    "Effect3": "Will",
+    "Effect4": "Allergic Reaction"
+    },
+    {
+    "Name": "Duskfern",
+    "Effect1": "Masonry",
+    "Effect2": "Charisma",
+    "Effect3": "Lore",
+    "Effect4": null
+    },
+    {
+    "Name": "Waybroad",
+    "Effect1": "Nicks & Knacks",
+    "Effect2": "Shorter Duration",
+    "Effect3": "Survival",
+    "Effect4": "Blade Kiss"
+    },
+    {
+    "Name": "Puffballs",
+    "Effect1": "Scrapes & Cuts",
+    "Effect2": "Masonry",
+    "Effect3": null,
+    "Effect4": null
+    },
+    {
+    "Name": "Chives",
+    "Effect1": "Will",
+    "Effect2": "Quill'd",
+    "Effect3": "Wretched Gore",
+    "Effect4": "Marksmanship"
+    },
+    {
+    "Name": "Blueberries",
+    "Effect1": "Shorter Duration",
+    "Effect2": "Midge Bites",
+    "Effect3": "Nettle Burn",
+    "Effect4": "Deep Cuts"
+    },
+    {
+    "Name": "Bay Bolete",
+    "Effect1": "Marksmanship",
+    "Effect2": "Aching Joints",
+    "Effect3": null,
+    "Effect4": null
+    },
+    {
+    "Name": "Cavebulb",
+    "Effect1": "Seal Finger",
+    "Effect2": "Stealth",
+    "Effect3": null,
+    "Effect4": null
+    },
+    {
+    "Name": "Blood Stern",
+    "Effect1": "Bruises",
+    "Effect2": "Psyche",
+    "Effect3": "Maddening Rash",
+    "Effect4": null
+    },
+    {
+    "Name": "Yarrow",
+    "Effect1": "Antcid Burns",
+    "Effect2": "Constitution",
+    "Effect3": null,
+    "Effect4": null
+    },
+    {
+    "Name": "Taproot",
+    "Effect1": "Stealth",
+    "Effect2": "Will",
+    "Effect3": "Seal Finger",
+    "Effect4": "Punch-Sore"
+    },
+    {
+    "Name": "Cinnabar",
+    "Effect1": "Antcid Burns",
+    "Effect2": "Perception",
+    "Effect3": "Survival",
+    "Effect4": null
+    },
+    {
+    "Name": "Stinging Nettle",
+    "Effect1": "Stealth",
+    "Effect2": "Allergic Reaction",
+    "Effect3": "Survival",
+    "Effect4": "Survival"
+    },
+    {
+    "Name": "Mandrake",
+    "Effect1": "Carpentry",
+    "Effect2": "Survival",
+    "Effect3": null,
+    "Effect4": null
+    },
+    {
+    "Name": "Dandelion",
+    "Effect1": "Masonry",
+    "Effect2": "Punch-Sore",
+    "Effect3": "Crab Caressed",
+    "Effect4": null
+    },
+    {
+    "Name": "Graywacke",
+    "Effect1": "Charisma",
+    "Effect2": null,
+    "Effect3": null,
+    "Effect4": null
+    },
+    {
+    "Name": "Stalagoom",
+    "Effect1": "Nicks & Knacks",
+    "Effect2": "Unarmed Combat",
+    "Effect3": null,
+    "Effect4": null
+    },
+    {
+    "Name": "Quartz",
+    "Effect1": "Unarmed Combat",
+    "Effect2": "Stealth",
+    "Effect3": null,
+    "Effect4": null
+    },
+    {
+    "Name": "Uncommon Snapdragon",
+    "Effect1": null,
+    "Effect2": null,
+    "Effect3": null,
+    "Effect4": null
+    },
+    {
+    "Name": "Serpentine",
+    "Effect1": "Lore",
+    "Effect2": null,
+    "Effect3": null,
+    "Effect4": null
+    },
+    {
+    "Name": "Sandstone",
+    "Effect1": null,
+    "Effect2": null,
+    "Effect3": null,
+    "Effect4": null
+    },
+    {
+    "Name": "Cats Gold",
+    "Effect1": "Constitution",
+    "Effect2": "Nerve Damage",
+    "Effect3": "Nicks & Knacks",
+    "Effect4": "Bum Burn"
+    },
+    {
+    "Name": "Lead Glance",
+    "Effect1": "Nidburns",
+    "Effect2": null,
+    "Effect3": null,
+    "Effect4": null
+    },
+    {
+    "Name": "Wild Windsown Weed",
+    "Effect1": "Psyche",
+    "Effect2": "Charisma",
+    "Effect3": "Will",
+    "Effect4": "Nasty Laceration"
+    },
+    {
+    "Name": "Lady's Mantle",
+    "Effect1": "Concussion",
+    "Effect2": null,
+    "Effect3": null,
+    "Effect4": null
+    },
+    {
+    "Name": "Cattail Head",
+    "Effect1": "Constitution",
+    "Effect2": "Masonry",
+    "Effect3": "Lore",
+    "Effect4": "Quill'd"
+    },
+    {
+    "Name": "Cattail Fiber",
+    "Effect1": "Pipe Wheeze",
+    "Effect2": "Midge Bites",
+    "Effect3": "Survival",
+    "Effect4": "Swamp Fever"
+    },
+    {
+    "Name": "Dolomite",
+    "Effect1": null,
+    "Effect2": null,
+    "Effect3": null,
+    "Effect4": null
+    },
+    {
+    "Name": "Olivine",
+    "Effect1": "Wretched Gore",
+    "Effect2": "Marksmanship",
+    "Effect3": null,
+    "Effect4": null
+    },
+    {
+    "Name": "Frog's Crown",
+    "Effect1": null,
+    "Effect2": null,
+    "Effect3": null,
+    "Effect4": null
+    },
+    {
+    "Name": "Royal Toadstool",
+    "Effect1": "Agility",
+    "Effect2": "Swamp Fever",
+    "Effect3": null,
+    "Effect4": null
+    },
+    {
+    "Name": "Toadflax",
+    "Effect1": "Perception",
+    "Effect2": "Lore",
+    "Effect3": "Seal Finger",
+    "Effect4": "Bum Burn"
+    },
+    {
+    "Name": "Liberty Caps",
+    "Effect1": null,
+    "Effect2": null,
+    "Effect3": null,
+    "Effect4": null
+    },
+    {
+    "Name": "Slag",
+    "Effect1": "Constitution",
+    "Effect2": "Concussion",
+    "Effect3": null,
+    "Effect4": null
+    },
+    {
+    "Name": "Candleberry",
+    "Effect1": "Quicksilver Poisoning",
+    "Effect2": null,
+    "Effect3": null,
+    "Effect4": null
+    },
+    {
+    "Name": "Apatite",
+    "Effect1": "Psyche",
+    "Effect2": "Masonry",
+    "Effect3": "Blade Kiss",
+    "Effect4": null
+    },
+    {
+    "Name": "Pumice",
+    "Effect1": null,
+    "Effect2": null,
+    "Effect3": null,
+    "Effect4": null
+    },
+    {
+    "Name": "Cassiterite",
+    "Effect1": "Masonry",
+    "Effect2": "Nettle Burn",
+    "Effect3": null,
+    "Effect4": null
+    },
+    {
+    "Name": "Green Kelp",
+    "Effect1": "Unarmed Combat",
+    "Effect2": "Perception",
+    "Effect3": "Midge Bites",
+    "Effect4": "Dexterity"
+    },
+    {
+    "Name": "Eclogite",
+    "Effect1": "Midge Bites",
+    "Effect2": "Quicksilver Poisoning",
+    "Effect3": null,
+    "Effect4": null
+    },
+    {
+    "Name": "Dewey Lady's Mantle",
+    "Effect1": null,
+    "Effect2": null,
+    "Effect3": null,
+    "Effect4": null
+    },
+    {
+    "Name": "Mistletoe",
+    "Effect1": "Shorter Duration",
+    "Effect2": "Nicks & Knacks",
+    "Effect3": null,
+    "Effect4": null
+    },
+    {
+    "Name": "Clo+Tap",
+    "Effect1": "Aching Joints",
+    "Effect2": null,
+    "Effect3": null,
+    "Effect4": null
+    },
+    {
+    "Name": "Lamp Stalk",
+    "Effect1": null,
+    "Effect2": null,
+    "Effect3": null,
+    "Effect4": null
+    },
+    {
+    "Name": "Wine Glance",
+    "Effect1": null,
+    "Effect2": null,
+    "Effect3": null,
+    "Effect4": null
+    },
+    {
+    "Name": "Eclo+Apa",
+    "Effect1": "Quicksilver Poisoning",
+    "Effect2": null,
+    "Effect3": null,
+    "Effect4": null
+    },
+    {
+    "Name": "Chert",
+    "Effect1": "Masonry",
+    "Effect2": "Punch-Sore",
+    "Effect3": null,
+    "Effect4": null
+    },
+    {
+    "Name": "Orthoclase",
+    "Effect1": "Agility",
+    "Effect2": "Allergic Reaction",
+    "Effect3": null,
+    "Effect4": null
+    },
+    {
+    "Name": "Cremini Mushroom",
+    "Effect1": null,
+    "Effect2": null,
+    "Effect3": null,
+    "Effect4": null
+    },
+    {
+    "Name": "Zincspar",
+    "Effect1": null,
+    "Effect2": null,
+    "Effect3": null,
+    "Effect4": null
+    },
+    {
+    "Name": "Mica",
+    "Effect1": "Quicksilver Poisoning",
+    "Effect2": null,
+    "Effect3": null,
+    "Effect4": null
+    },
+    {
+    "Name": "Diorite",
+    "Effect1": "Starvation",
+    "Effect2": "Psyche",
+    "Effect3": "Nasty Laceration",
+    "Effect4": null
+    },
+    {
+    "Name": "Mica+Cat",
+    "Effect1": "Quicksilver Poisoning",
+    "Effect2": null,
+    "Effect3": null,
+    "Effect4": null
+    },
+    {
+    "Name": "Fluorospar",
+    "Effect1": "Charisma",
+    "Effect2": null,
+    "Effect3": null,
+    "Effect4": null
+    },
+    {
+    "Name": "Fluoro+Eclo",
+    "Effect1": null,
+    "Effect2": null,
+    "Effect3": null,
+    "Effect4": null
+    },
+    {
+    "Name": "Fluoro+Cat",
+    "Effect1": null,
+    "Effect2": null,
+    "Effect3": null,
+    "Effect4": null
+    },
+    {
+    "Name": "Rhyolite",
+    "Effect1": "Nidburns",
+    "Effect2": "Deep Cuts",
+    "Effect3": "Lore",
+    "Effect4": null
+    },
+    {
+    "Name": "Microlite",
+    "Effect1": "Adder Bite",
+    "Effect2": "Will",
+    "Effect3": "Bum Burn",
+    "Effect4": null
+    },
+    {
+    "Name": "Gabbro",
+    "Effect1": "Smithing",
+    "Effect2": null,
+    "Effect3": null,
+    "Effect4": null
+    },
+    {
+    "Name": "Porphyry",
+    "Effect 1": "Maddening Rash",
+    "Effect 2": "Swamp Fever",
+    "Effect3": null,
+    "Effect4": null
+    },
+    {
+    "Name": "Arkose",
+    "Effect1": "Charisma",
+    "Effect2": "Carpentry",
+    "Effect3": "Will",
+    "Effect4": null
+    },
+    {
+    "Name": "Jasper",
+    "Effect1": "Nicks & Knacks",
+    "Effect2": "Dexterity",
+    "Effect3": null,
+    "Effect4": null
+    },
+    {
+    "Name": "Breccia",
+    "Effect1": "Constitution",
+    "Effect2": "Perception",
+    "Effect3": "Crab Caressed",
+    "Effect4": null
+
+    },
+    {
+    "Name": "Soapstone",
+    "Effect1": "Nicks & Knacks",
+    "Effect2": "Stealth",
+    "Effect3": "Perception",
+    "Effect4": null
+    }
+]
