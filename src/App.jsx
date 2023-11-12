@@ -85,25 +85,26 @@ function App() {
         </a>{" "}
         at discord
       </div>
+      <div className="text-emerald-500 font-bold mb-2">The effects are not in order!!!</div>
       <div className="overflow-x-auto">
         <table className="min-w-full bg-white border border-gray-300 rounded-md text-black">
           <thead className="bg-gray-100">
-            <tr>
+            <tr className="">
               <th className="py-2 px-4 border-b">Name</th>
-              <th className="py-2 px-4 border-b ">Effect 1</th>
-              <th className="py-2 px-4 border-b ">Effect 2</th>
-              <th className="py-2 px-4 border-b ">Effect 3</th>
-              <th className="py-2 px-4 border-b ">Effect 4</th>
+              <th className="py-2 px-4 border-b">Effect</th>
+              <th className="py-2 px-4 border-b">Effect</th>
+              <th className="py-2 px-4 border-b">Effect</th>
+              <th className="py-2 px-4 border-b">Effect</th>
             </tr>
           </thead>
           <tbody>
             {filteredData.map((item) => (
-              <tr key={item.Name} className="hover:bg-gray-50">
+              <tr key={item.Name} className="hover:bg-emerald-500 justify-start">
                 <td className="py-2 px-4 border-b">{item.Name}</td>
-                <td className="py-2 px-4 border-b ">{item.Effect1}</td>
-                <td className="py-2 px-4 border-b ">{item.Effect2}</td>
-                <td className="py-2 px-4 border-b ">{item.Effect3}</td>
-                <td className="py-2 px-4 border-b ">{item.Effect4}</td>
+                <td className="py-2 px-4 border-b">{item.Effect1}</td>
+                <td className="py-2 px-4 border-b">{item.Effect2}</td>
+                <td className="py-2 px-4 border-b">{item.Effect3}</td>
+                <td className="py-2 px-4 border-b">{item.Effect4}</td>
               </tr>
             ))}
           </tbody>
